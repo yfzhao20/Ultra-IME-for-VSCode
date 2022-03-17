@@ -1,14 +1,28 @@
 {
   "name": "ultra-ime",
-	"displayName": "Ultra_IME",
+	"displayName": "Ultra IME",
 	"description": "An extension for automatically toggling IME",
 	"version": "0.0.1",
+	"keywords": [
+		"ime",
+		"autohotkey",
+		"latex",
+		"markdown"
+	],
+	"preview": true,
 	"engines": {
 		"vscode": "^1.54.0"
 	},
 	"categories": [
 		"Other"
 	],
+	"repository": {
+		"url": "https://github.com/yfzhao20/Ultra-IME-for-VSCode"
+	},
+	"bugs": {
+		"url": "https://github.com/yfzhao20/Ultra-IME-for-VSCode/issues"
+	  },
+	"publisher": "yfzhao",
 	"icon": "images/icon.ico",
 	"activationEvents": [
     	"onLanguage:markdown",
