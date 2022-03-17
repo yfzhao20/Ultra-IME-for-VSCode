@@ -1,7 +1,7 @@
 {
-  "name": "ultra-ime",
-	"displayName": "Ultra IME",
-	"description": "An extension for automatically toggling IME",
+  "name": "ultra-ime-toggler",
+	"displayName": "Ultra IME Toggler",
+	"description": "An extension for automatically toggling IME. Make it easier to input LaTeX.",
 	"version": "0.0.1",
 	"keywords": [
 		"ime",
