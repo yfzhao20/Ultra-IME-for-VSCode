@@ -1,8 +1,8 @@
 {
   "name": "ultra-ime-toggler",
-	"displayName": "Ultra IME Toggler",
+	"displayName": "(DEPRECATED) Ultra IME Toggler",
 	"description": "An extension for automatically toggling IME. Make it easier to input LaTeX.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": [
 		"ime",
 		"autohotkey",
